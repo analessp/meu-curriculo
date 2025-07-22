@@ -1,25 +1,25 @@
-# Meu Currículo 🚀
+# Meu Currículo
 Este é um projeto de currículo online desenvolvido para apresentar minhas habilidades, experiência profissional, formação acadêmica e projetos pessoais de forma interativa e acessível.
 
-## Descrição do Projeto 📝
+## Descrição do Projeto
 Este repositório contém o código-fonte do meu currículo online. O objetivo principal é fornecer uma plataforma dinâmica para potenciais empregadores e colaboradores conhecerem meu perfil profissional de maneira detalhada e visualmente agradável. O site é responsivo, garantindo uma ótima experiência em dispositivos de todos os tamanhos.
 
-## Funcionalidades ✨
-- Seção Sobre Mim: Uma breve introdução sobre quem eu sou e meus objetivos de carreira. 👤
+## Funcionalidades
+- Seção Sobre Mim: Uma breve introdução sobre quem eu sou e meus objetivos de carreira.
 
-- Experiência Profissional: Detalhes sobre meus cargos anteriores, responsabilidades e conquistas. 💼
+- Experiência Profissional: Detalhes sobre meus cargos anteriores, responsabilidades e conquistas.
 
-- Formação Acadêmica: Informações sobre minha educação e qualificações. 🎓
+- Formação Acadêmica: Informações sobre minha educação e qualificações.
 
-- Habilidades: Lista de habilidades técnicas e interpessoais. 💻
+- Habilidades: Lista de habilidades técnicas e interpessoais.
 
-- Projetos: Destaque para projetos relevantes, com links para repositórios. 💡
+- Projetos: Destaque para projetos relevantes, com links para repositórios.
 
-- Contato: Formas de entrar em contato comigo. 📧
+- Contato: Formas de entrar em contato comigo.
 
-- Design Responsivo: O layout se adapta a diferentes tamanhos de tela (desktop, tablet, mobile). 📱
+- Design Responsivo: O layout se adapta a diferentes tamanhos de tela (desktop, tablet, mobile).
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas
 Este projeto foi construído com as seguintes tecnologias (ajuste conforme o seu projeto):
 
 ### Frontend:
@@ -28,15 +28,15 @@ Este projeto foi construído com as seguintes tecnologias (ajuste conforme o seu
 
 - CSS3 (CSS personalizado)
 
-### Hospedagem: Vercel 🌐
+### Hospedagem: Vercel
 
-## Instalação ⬇️
+## Instalação 
 - Clone o repositório:
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
-## Implantação (Deployment) ☁️
+## Implantação (Deployment) 
 Este projeto está hospedado na Vercel, conforme indicado pelo link https://meu-curriculo-iota.vercel.app.
 
 Para implantar seu próprio currículo na Vercel:
@@ -47,7 +47,7 @@ Para implantar seu próprio currículo na Vercel:
 
 - A Vercel detectará automaticamente a configuração do seu projeto e o implantará.
 
-## Contato ✉️
+## Contato 
 - Nome: Ana Kesia Lessa
 
 - Email: lessakesia07@gmail.com
