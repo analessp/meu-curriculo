@@ -50,8 +50,8 @@ Para implantar seu próprio currículo na Vercel:
 ## Contato ✉️
 - Nome: Ana Kesia Lessa
 
-- Email: [lessakesia07@gmail.com]
+- Email: lessakesia07@gmail.com
 
-- LinkedIn: [https://www.linkedin.com/in/ana-lessa-2a312a253]
+- LinkedIn: https://www.linkedin.com/in/ana-lessa-2a312a253
 
-- GitHub: [https://github.com/analessp]
+- GitHub: https://github.com/analessp
